@@ -1,5 +1,4 @@
 # loadlibrary-injector
 Simple injector I made
 
-Preview:
-![Optional Text](../master/example.png)
+![Preview.](https://i.imgur.com/UixWXIh.png)
